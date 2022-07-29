@@ -14,7 +14,7 @@ class _SCREENState extends State<SCREEN> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("INPUT NUMBER")
+        title: Text("INPUT NOMOR")
       ),
       body: Container(
         margin: EdgeInsets.all(10),
